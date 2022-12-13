@@ -1,0 +1,411 @@
+LOCUS       NM_175762               3038 bp    mRNA    linear   ROD 16-APR-2022
+DEFINITION  Rattus norvegicus low density lipoprotein receptor (Ldlr), mRNA.
+ACCESSION   NM_175762 XM_217091
+VERSION     NM_175762.3
+KEYWORDS    RefSeq.
+SOURCE      Rattus norvegicus (Norway rat)
+  ORGANISM  Rattus norvegicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Rattus.
+REFERENCE   1  (bases 1 to 3038)
+  AUTHORS   Dettlaff-Pokora A, Sucajtys-Szulc E and Sledzinski T.
+  TITLE     Up-regulation of PCSK9 gene expression and diminished level of
+            LDL-receptor in rat liver as a potential cause of post-lipectomy
+            hypercholesterolemia
+  JOURNAL   Mol Cell Biochem 455 (1-2), 207-217 (2019)
+   PUBMED   30483910
+  REMARK    GeneRIF: This suggests that overexpression of HNF1alpha gene in
+            liver of lipectomized rats can lead to overproduction of PCSK9. In
+            conclusion, up-regulation of PCSK9, due to overexpression of
+            HNF1alpha gene in liver of lipectomized rats and subsequently
+            increase in circulating PCSK9 concentration lead to decrease in
+            liver LDL-R level.
+REFERENCE   2  (bases 1 to 3038)
+  AUTHORS   Farahnak Z, Chapados N and Lavoie JM.
+  TITLE     Exercise training increased gene expression of LDL-R and PCSK9 in
+            intestine: link to transintestinal cholesterol excretion
+  JOURNAL   Gen Physiol Biophys 37 (3), 309-317 (2018)
+   PUBMED   29938676
+  REMARK    GeneRIF: up-regulation of intestinal gene expression of LDL-R and
+            PCSK9 following voluntary wheel running
+REFERENCE   3  (bases 1 to 3038)
+  AUTHORS   Zhao Y, Yang Y, Xing R, Cui X, Xiao Y, Xie L, You P, Wang T, Zeng
+            L, Peng W, Li D, Chen H and Liu M.
+  TITLE     Hyperlipidemia induces typical atherosclerosis development in Ldlr
+            and Apoe deficient rats
+  JOURNAL   Atherosclerosis 271, 26-35 (2018)
+   PUBMED   29459263
+  REMARK    GeneRIF: Deficiency of either Ldlr or Apoe genes induced
+            hyperlipidemia, which promoted endothelial inflammation and led to
+            typical atherosclerosis in rats on normal or Western diets.
+REFERENCE   4  (bases 1 to 3038)
+  AUTHORS   Sithu,S.D., Malovichko,M.V., Riggs,K.A., Wickramasinghe,N.S.,
+            Winner,M.G., Agarwal,A., Hamed-Berair,R.E., Kalani,A., Riggs,D.W.,
+            Bhatnagar,A. and Srivastava,S.
+  TITLE     Atherogenesis and metabolic dysregulation in LDL receptor-knockout
+            rats
+  JOURNAL   JCI Insight 2 (9), 86442 (2017)
+   PUBMED   28469073
+  REMARK    Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 3038)
+  AUTHORS   Molino Y, David M, Varini K, Jabes F, Gaudin N, Fortoul A, Bakloul
+            K, Masse M, Bernard A, Drobecq L, Lecorche P, Temsamani J, Jacquot
+            G and Khrestchatisky M.
+  TITLE     Use of LDL receptor-targeting peptide vectors for in vitro and in
+            vivo cargo transport across the blood-brain barrier
+  JOURNAL   FASEB J 31 (5), 1807-1827 (2017)
+   PUBMED   28108572
+  REMARK    GeneRIF: LDLR is a relevant receptor for CNS drug delivery via
+            receptor-mediated transcytosis and that the peptide vectors we
+            developed have the potential to transport drugs
+REFERENCE   6  (bases 1 to 3038)
+  AUTHORS   Bishop RW.
+  TITLE     Structure of the hamster low density lipoprotein receptor gene
+  JOURNAL   J Lipid Res 33 (4), 549-557 (1992)
+   PUBMED   1527478
+REFERENCE   7  (bases 1 to 3038)
+  AUTHORS   Meiner V, Landsberger D, Berkman N, Reshef A, Segal P, Seftel HC,
+            van der Westhuyzen DR, Jeenah MS, Coetzee GA and Leitersdorf E.
+  TITLE     A common Lithuanian mutation causing familial hypercholesterolemia
+            in Ashkenazi Jews
+  JOURNAL   Am J Hum Genet 49 (2), 443-449 (1991)
+   PUBMED   1867200
+REFERENCE   8  (bases 1 to 3038)
+  AUTHORS   Lee LY, Mohler WA, Schafer BL, Freudenberger JS, Byrne-Connolly N,
+            Eager KB, Mosley ST, Leighton JK, Thrift RN, Davis RA et al.
+  TITLE     Nucleotide sequence of the rat low density lipoprotein receptor
+            cDNA
+  JOURNAL   Nucleic Acids Res 17 (3), 1259-1260 (1989)
+   PUBMED   2922268
+REFERENCE   9  (bases 1 to 3038)
+  AUTHORS   Cooper,A.D., Nutik,R. and Chen,J.
+  TITLE     Characterization of the estrogen-induced lipoprotein receptor of
+            rat liver
+  JOURNAL   J Lipid Res 28 (1), 59-68 (1987)
+   PUBMED   3559401
+REFERENCE   10 (bases 1 to 3038)
+  AUTHORS   Yamamoto,T., Davis,C.G., Brown,M.S., Schneider,W.J., Casey,M.L.,
+            Goldstein,J.L. and Russell,D.W.
+  TITLE     The human LDL receptor: a cysteine-rich protein with multiple Alu
+            sequences in its mRNA
+  JOURNAL   Cell 39 (1), 27-38 (1984)
+   PUBMED   6091915
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from
+            JACYVU010000190.1.
+            On Nov 27, 2020 this sequence version replaced NM_175762.2.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: X13722.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMD00132261, SAMD00132262
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-221               JACYVU010000190.1  5074287-5074507
+            222-344             JACYVU010000190.1  5081861-5081983
+            345-467             JACYVU010000190.1  5082500-5082622
+            468-851             JACYVU010000190.1  5083446-5083829
+            852-974             JACYVU010000190.1  5085068-5085190
+            975-1097            JACYVU010000190.1  5087053-5087175
+            1098-1217           JACYVU010000190.1  5087691-5087810
+            1218-1343           JACYVU010000190.1  5087967-5088092
+            1344-1515           JACYVU010000190.1  5088439-5088610
+            1516-1740           JACYVU010000190.1  5088691-5088915
+            1741-1859           JACYVU010000190.1  5090782-5090900
+            1860-1999           JACYVU010000190.1  5091239-5091378
+            2000-2141           JACYVU010000190.1  5092057-5092198
+            2142-2294           JACYVU010000190.1  5092401-5092553
+            2295-2522           JACYVU010000190.1  5094397-5094624
+            2523-2600           JACYVU010000190.1  5095122-5095199
+            2601-2758           JACYVU010000190.1  5096059-5096216
+            2759-3038           JACYVU010000190.1  5096893-5097172
+FEATURES             Location/Qualifiers
+     source          1..3038
+                     /organism="Rattus norvegicus"
+                     /mol_type="mRNA"
+                     /strain="BN"
+                     /db_xref="taxon:10116"
+                     /chromosome="8"
+                     /map="8q13"
+     gene            1..3038
+                     /gene="Ldlr"
+                     /gene_synonym="LDLRA"
+                     /note="low density lipoprotein receptor"
+                     /db_xref="GeneID:300438"
+                     /db_xref="RGD:2998"
+     exon            1..221
+                     /gene="Ldlr"
+                     /gene_synonym="LDLRA"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    17..19
+                     /gene="Ldlr"
+                     /gene_synonym="LDLRA"
+                     /note="upstream in-frame stop codon"
+     CDS             155..2794
+                     /gene="Ldlr"
+                     /gene_synonym="LDLRA"
+                     /note="LDL receptor"
+                     /codon_start=1
+                     /product="low-density lipoprotein receptor precursor"
+                     /protein_id="NP_786938.2"
+                     /db_xref="GeneID:300438"
+                     /db_xref="RGD:2998"
+                     /translation="MSTADLMLRWAIALLLAAAGVAAEDSCGKNEFQCRDGKCIVSKW
+                     VCDGSRECPDGSDESPETCMSVTCRSGEFSCGGRVSRCIPDSWRCDGRTDCENGSDEL
+                     DCSPKTCSLDEFRCQDGKCISRQFVCDQDWDCLDGSDEAHCAATTCGPAHFRCNSSSC
+                     IPSLWACDGDRDCDDGSDEWPQNCGGRDTAAEVVSSPCSSLEFHCGSSECIHRSWVCD
+                     GAADCKDKSDEENCAVTTCRPDEFQCADGSCIHGSRQCDREHDCKDMSDELGCINVTQ
+                     CDGPNKFKCHSGECISLDKVCNSARDCRDWSDEPIKECKTNECLDNNGGCSHICKDLK
+                     IGYECLCPSGFRLVDGHQCEDIDECQEPDTCSQLCVNLEGSFKCECRAGFHMDPHTRV
+                     CKAVGSIGFLLFTNRHEVRKMTLDRSEYTSLIPNLKNVVALDTEVANNRIYWSDLSQR
+                     KIYSAVMDQGTSLSYDAIISGDLHAPDGLAVDWIHGNIYWTDSVPGTVSVADTKGVRR
+                     RTLFREKGSRPRAIVVDPVHGFMYWTDWGTPAKIKKGGLNGVDIYSLVTEDIQWPNGI
+                     TLDLPSGRLYWVDSKLHSISSIDVNGGGRKTILEDEKQLAHPFSLAIYEDKVYWTDVL
+                     NEAIFSANRLTGSDVNLVAKNLMSPEDIVLFHNVTQPRGVNWCEATVLPNGGCQYMCL
+                     PAPQISAHSPKFTCACPDGMLLAKDMRSCLPEVDTVPTTQGTSTIGPVVTTSAAVSLK
+                     RKEDPSATRHKEDPSATRHKEDPSATSTSRQPGDTPELSTVESVTVSSQVQGDMAGRG
+                     DEVQRHGVGFLSIFLPIALVALLVFGAILLWRNWRLRNINSINFDNPVYQKTTEDEIH
+                     ICRSQDGYTYPSRQMVSLEDDVA"
+     sig_peptide     155..223
+                     /gene="Ldlr"
+                     /gene_synonym="LDLRA"
+                     /inference="COORDINATES: ab initio prediction:SignalP:4.0"
+     misc_feature    443..445
+                     /gene="Ldlr"
+                     /gene_synonym="LDLRA"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P35952.1); glycosylation site"
+     misc_feature    620..622
+                     /gene="Ldlr"
+                     /gene_synonym="LDLRA"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P35952.1); glycosylation site"
+     misc_feature    971..973
+                     /gene="Ldlr"
+                     /gene_synonym="LDLRA"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P35952.1); glycosylation site"
+     misc_feature    1346..1471
+                     /gene="Ldlr"
+                     /gene_synonym="LDLRA"
+                     /note="propagated from UniProtKB/Swiss-Prot (P35952.1);
+                     Region: LDL-receptor class B 1"
+     misc_feature    1472..1609
+                     /gene="Ldlr"
+                     /gene_synonym="LDLRA"
+                     /note="propagated from UniProtKB/Swiss-Prot (P35952.1);
+                     Region: LDL-receptor class B 2"
+     misc_feature    1610..1738
+                     /gene="Ldlr"
+                     /gene_synonym="LDLRA"
+                     /note="propagated from UniProtKB/Swiss-Prot (P35952.1);
+                     Region: LDL-receptor class B 3"
+     misc_feature    1739..1870
+                     /gene="Ldlr"
+                     /gene_synonym="LDLRA"
+                     /note="propagated from UniProtKB/Swiss-Prot (P35952.1);
+                     Region: LDL-receptor class B 4"
+     misc_feature    1871..1999
+                     /gene="Ldlr"
+                     /gene_synonym="LDLRA"
+                     /note="propagated from UniProtKB/Swiss-Prot (P35952.1);
+                     Region: LDL-receptor class B 5"
+     misc_feature    2000..2128
+                     /gene="Ldlr"
+                     /gene_synonym="LDLRA"
+                     /note="propagated from UniProtKB/Swiss-Prot (P35952.1);
+                     Region: LDL-receptor class B 6"
+     misc_feature    2123..2125
+                     /gene="Ldlr"
+                     /gene_synonym="LDLRA"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P35952.1); glycosylation site"
+     misc_feature    2303..2518
+                     /gene="Ldlr"
+                     /gene_synonym="LDLRA"
+                     /note="propagated from UniProtKB/Swiss-Prot (P35952.1);
+                     Region: Clustered O-linked oligosaccharides"
+     misc_feature    2303..2305
+                     /gene="Ldlr"
+                     /gene_synonym="LDLRA"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0007744|PubMed:16641100; propagated from
+                     UniProtKB/Swiss-Prot (P35952.1); phosphorylation site"
+     misc_feature    2306..2545
+                     /gene="Ldlr"
+                     /gene_synonym="LDLRA"
+                     /note="propagated from UniProtKB/Swiss-Prot (P35952.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    2324..2326
+                     /gene="Ldlr"
+                     /gene_synonym="LDLRA"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0007744|PubMed:16641100; propagated from
+                     UniProtKB/Swiss-Prot (P35952.1); phosphorylation site"
+     misc_feature    2348..2350
+                     /gene="Ldlr"
+                     /gene_synonym="LDLRA"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0007744|PubMed:16641100; propagated from
+                     UniProtKB/Swiss-Prot (P35952.1); phosphorylation site"
+     misc_feature    2351..2353
+                     /gene="Ldlr"
+                     /gene_synonym="LDLRA"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0007744|PubMed:16641100; propagated from
+                     UniProtKB/Swiss-Prot (P35952.1); phosphorylation site"
+     misc_feature    2354..2356
+                     /gene="Ldlr"
+                     /gene_synonym="LDLRA"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:16641100; propagated from
+                     UniProtKB/Swiss-Prot (P35952.1); phosphorylation site"
+     misc_feature    2576..2641
+                     /gene="Ldlr"
+                     /gene_synonym="LDLRA"
+                     /note="propagated from UniProtKB/Swiss-Prot (P35952.1);
+                     transmembrane region"
+     misc_feature    2642..2791
+                     /gene="Ldlr"
+                     /gene_synonym="LDLRA"
+                     /note="propagated from UniProtKB/Swiss-Prot (P35952.1);
+                     Region: Required for MYLIP-triggered down-regulation of
+                     LDLR. /evidence=ECO:0000250|UniProtKB:P01130"
+     misc_feature    2678..2695
+                     /gene="Ldlr"
+                     /gene_synonym="LDLRA"
+                     /note="propagated from UniProtKB/Swiss-Prot (P35952.1);
+                     Region: NPXY motif.
+                     /evidence=ECO:0000250|UniProtKB:P01130"
+     exon            222..344
+                     /gene="Ldlr"
+                     /gene_synonym="LDLRA"
+                     /inference="alignment:Splign:2.1.0"
+     exon            345..467
+                     /gene="Ldlr"
+                     /gene_synonym="LDLRA"
+                     /inference="alignment:Splign:2.1.0"
+     exon            468..851
+                     /gene="Ldlr"
+                     /gene_synonym="LDLRA"
+                     /inference="alignment:Splign:2.1.0"
+     exon            852..974
+                     /gene="Ldlr"
+                     /gene_synonym="LDLRA"
+                     /inference="alignment:Splign:2.1.0"
+     exon            975..1097
+                     /gene="Ldlr"
+                     /gene_synonym="LDLRA"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1098..1217
+                     /gene="Ldlr"
+                     /gene_synonym="LDLRA"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1218..1343
+                     /gene="Ldlr"
+                     /gene_synonym="LDLRA"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1344..1515
+                     /gene="Ldlr"
+                     /gene_synonym="LDLRA"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1516..1740
+                     /gene="Ldlr"
+                     /gene_synonym="LDLRA"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1741..1859
+                     /gene="Ldlr"
+                     /gene_synonym="LDLRA"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1860..1999
+                     /gene="Ldlr"
+                     /gene_synonym="LDLRA"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2000..2141
+                     /gene="Ldlr"
+                     /gene_synonym="LDLRA"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2142..2294
+                     /gene="Ldlr"
+                     /gene_synonym="LDLRA"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2295..2522
+                     /gene="Ldlr"
+                     /gene_synonym="LDLRA"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2523..2600
+                     /gene="Ldlr"
+                     /gene_synonym="LDLRA"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2601..2758
+                     /gene="Ldlr"
+                     /gene_synonym="LDLRA"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2759..3038
+                     /gene="Ldlr"
+                     /gene_synonym="LDLRA"
+                     /inference="alignment:Splign:2.1.0"
+ORIGIN      
+        1 ttgacccagt gcggcgtagg attgcagccc gcataccgtg gggcttgcca cccaggtttt
+       61 gcagctgaga caccgtggga cccgtgatcc tgtgtttgca gcgggaacat ttcgggtctg
+      121 tgatccgagt ggggacgcga cgcagaggct gaggatgagc accgcggatc tgatgctacg
+      181 ctgggccatc gccctgctcc tggctgctgc tggagttgca gcagaagatt catgtggcaa
+      241 gaacgagttc cagtgtagag acggaaaatg catcgtcagc aagtgggtgt gtgacggcag
+      301 ccgcgagtgc ccggatggct ccgatgagtc ccctgagaca tgcatgtctg tcacctgtcg
+      361 atccggtgag ttcagctgtg gaggccgcgt cagccgatgc attcctgact cctggagatg
+      421 tgatgggcgg accgactgtg aaaatggctc ggatgaacta gactgctccc ccaagacgtg
+      481 ctccctggat gagttccgct gccaggatgg caagtgcatc tcccggcagt ttgtgtgtga
+      541 ccaagactgg gattgcctgg atggctctga cgaggcccac tgtgcggcca ccacttgtgg
+      601 ccctgctcac ttccgctgca actcctcttc ctgcatcccc agcctgtggg cctgcgacgg
+      661 ggaccgggac tgtgacgatg gctccgatga gtggccgcag aactgcgggg gccgagacac
+      721 ggccgctgag gtggtcagca gcccctgctc ctccctcgag ttccactgtg gcagtagtga
+      781 gtgtatccat cgcagctggg tctgtgacgg tgcggctgac tgcaaggaca agtcggacga
+      841 ggagaactgc gcggtgacca cctgccgacc tgacgaattc cagtgtgcag atggctcctg
+      901 tattcacggt agccgccagt gtgaccgtga acatgactgc aaagacatga gcgacgagct
+      961 tggctgcatc aatgtgaccc agtgcgatgg ccctaacaaa ttcaagtgcc acagtgggga
+     1021 gtgcatcagc ttggacaagg tgtgcaactc cgcccgggac tgtcgtgact ggtcggatga
+     1081 gcccatcaag gagtgcaaga ccaacgagtg cttggacaac aatggtggct gttcccacat
+     1141 ctgcaaggac ctcaagattg gctatgagtg cctatgtccc agcggtttcc ggttggtgga
+     1201 cggccaccag tgtgaagata ttgacgagtg tcaggagcca gacacctgca gccagctctg
+     1261 tgtgaacctg gagggcagct tcaagtgcga gtgtcgggcc ggcttccaca tggaccctca
+     1321 caccagggtc tgcaaggctg tgggttccat agggtttctg ctcttcacca accgccatga
+     1381 ggtacgtaag atgaccctgg accgcagcga gtataccagc ctgatcccca acctgaagaa
+     1441 tgtggtggcg ctggacactg aggtggccaa caatagaatt tactggtctg acctgtccca
+     1501 gagaaagatc tacagcgccg tgatggacca gggcaccagc ttgtcctatg atgccatcat
+     1561 cagtggggac ctgcacgccc ctgacgggct ggcggtagac tggatccatg gcaacatcta
+     1621 ctggacggat tcagttccgg gcactgtttc cgtggctgac accaagggtg tcaggaggag
+     1681 aactctgttc cgagagaaag ggtccagacc cagagccatc gtagtggacc ctgtgcatgg
+     1741 cttcatgtac tggacagatt gggggacacc tgccaagatc aagaaagggg gtttgaatgg
+     1801 tgtagacatc tactctctgg tgaccgagga catccagtgg ccaaatggca tcacactaga
+     1861 tcttcccagt ggccgcctct attgggttga ttccaaactc cactccatct ccagcatcga
+     1921 tgtcaatggg ggtggtcgga aaaccatttt ggaggatgag aagcagctag ctcacccctt
+     1981 ctccttggcc atctatgagg acaaagtgta ttggacagat gtcttaaatg aagccatttt
+     2041 cagtgccaac cgcctcacgg gttcagatgt gaatttggtg gctaaaaacc tcatgtcccc
+     2101 ggaggacatt gtcctgtttc acaacgtcac gcagcctaga ggggtaaact ggtgtgaggc
+     2161 aacggttctc cccaacggtg gctgccagta catgtgcctg cctgcccctc agatcagtgc
+     2221 ccactcaccc aagttcacct gcgcttgccc tgatggtatg ctactggcca aggacatgag
+     2281 gagctgcctc ccagaagtcg acactgtacc gaccacccag gggacatcca ccattgggcc
+     2341 tgtggtcacc acatcagctg ctgtgtcact gaagcgcaag gaggatccct cagctactag
+     2401 gcacaaggag gatccctcag ctactaggca caaggaggat ccctcagcta ccagcacctc
+     2461 taggcagcct ggggataccc cagagctcag cacagtggag tcggtgacag tgtcctccca
+     2521 agtccaaggt gacatggctg gcagagggga cgaggtgcag cggcacggtg tggggttctt
+     2581 gtccatcttc ctccccattg cactggtggc cctccttgtc ttcggagcca tcctcctgtg
+     2641 gaggaactgg cggctgagga acattaacag cataaacttt gacaacccag tctaccagaa
+     2701 gaccacggag gacgagatcc acatttgccg cagccaggat ggctatacct acccctcgag
+     2761 acagatggtc agcctggagg atgatgtggc atgaacagct gaggggagcc atctctttcc
+     2821 gggatccgct gccaccctta ggcaggaagg acgctttctc acacctcccc gccctgcact
+     2881 ggtccttcca cctcagtggt ctctgtgttg ctcaaagcaa gataagagca aaactgggct
+     2941 ggggccaagc tcagcggcct gtctgccctg ggtcctgttt tatatattta ttgtctgggg
+     3001 acagaaaagg ctactggcca tgctccagat gggaattc
+//
+
